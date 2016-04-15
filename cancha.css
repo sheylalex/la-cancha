@@ -1,0 +1,60 @@
+ /**{outline:1px solid rgba(255,0,0,0.4);}*/
+.verde{
+	width: 1010px;
+	height: 510px;
+	background: green;
+	margin-top: 50px;
+	padding: 10px;
+	position: absolute;
+	}
+
+.cancha{
+	border:1px solid white;
+	width: 1000px;
+	height: 500px;
+	margin: auto;
+	position: relative;	
+}
+.arco-d{
+	width: 150px;
+	height: 250px;
+	border:1px solid white;
+	border-left: none;
+	position: absolute;
+	top:125px;
+} 
+.bola-d{
+	position: absolute;
+	right: -15px;
+}
+
+.centro{
+    width: 250px;
+	height: 250px;
+    border-radius: 100%;
+    border: 1px solid white;
+	margin:auto;
+	position: absolute;
+	top: 125px;
+	left: 375px;
+} 
+.bola-centro{
+	position: absolute;
+	left: 150px;
+	top: -70px;
+}
+.arco-i{
+	width: 150px;
+	height: 250px;
+	border:1px solid white;
+	border-right: none;
+	position: absolute;
+	right: 0px;
+	top: 125px;
+} 
+.bola-i{
+	position: absolute;
+	top: 220px;
+	left: -30px;
+}
+
